@@ -11,7 +11,7 @@ This project involves a comprehensive analysis of the Yelp dataset to identify t
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The objective of this project was to explore the Yelp dataset and extract insights about businesses in the categories of Restaurants, Shopping, and Beauty & Spas. The analysis focused on identifying top-rated businesses, comparing attributes, and presenting findings.
